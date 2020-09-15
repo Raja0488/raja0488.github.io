@@ -1,7 +1,6 @@
 	Raja Bayarappan	Email: rajaeceengineer@gmail.com
 
-		  Phone: +65 84249361
-  Suntec City, Singapore
+	  Suntec City, Singapore
 
  *CAREER OBJECTIVE*:
 To obtain a challenging position in a technology-driven organization with creative and enthusiastic environment that encourages innovative thinking, recognition and career development
