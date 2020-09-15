@@ -3,9 +3,8 @@
 		  Phone: +65 84249361
   Suntec City, Singapore
 
-CAREER OBJECTIVE
-To obtain a challenging position in a technology-driven organization with creative and enthusiastic
-environment that encourages innovative thinking, recognition and career development
+ *CAREER OBJECTIVE*:
+To obtain a challenging position in a technology-driven organization with creative and enthusiastic environment that encourages innovative thinking, recognition and career development
 
 CAREER SUMMARY
 Dynamic and Result oriented professional with an experience of 11 years in IT sector working across many financial domains. Excellent business insight with a strong background of understanding the technologies, leading and executing several IT operations based on ITIL practices.
